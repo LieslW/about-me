@@ -16,7 +16,45 @@ h1 {
   text-shadow: 1px 1px 1px blueviolet;
   text-align: center;
   font-size: 15vmin;
+}
 
+main {
+  margin-left: 150px;
+  margin-right: 150px;
+  justify-content: space-evenly;
+}
 
-  
+h2 {
+  font-family: "Courier New";
+  color:blueviolet;
+  text-align: left;
+  font-size: 5vmin; 
+}
+
+h3 {
+  font-family: "Courier New";
+  color:blueviolet;
+  text-align: right;
+  font-size: 5vmin;
+}
+
+h4 {
+  font-family: "Courier New";
+  color: blueviolet;
+  text-align: left;
+  font-size: 5vmin;
+}
+
+h5 {
+  font-family: "Courier New";
+  color:blueviolet;
+  text-align: right;
+  font-size: 5vmin;
+}
+
+h6 {
+  font-family: "Courier New";
+  color: blueviolet;
+  text-align: center;
+  font-size: 5vmin;
 }
