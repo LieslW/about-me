@@ -29,6 +29,17 @@ h2 {
   color:blueviolet;
   text-align: left;
   font-size: 5vmin; 
+  float: right;
+}
+
+#Bio {
+  text-align: center;
+  background-color: rgba(213, 226, 255, 0.5);
+  border: solid 2px rgba(111, 112, 255, 1);
+  float: right;
+  width: 350px;
+  display: flex;
+
 }
 
 h3 {
@@ -38,12 +49,29 @@ h3 {
   font-size: 5vmin;
 }
 
+#Edu {
+  text-align: center;
+  background-color: rgba(213, 226, 255, 0.5);
+  border: solid 2px rgba(111, 112, 255, 1);
+  float: left;
+  width: 230px;
+}
+
 h4 {
   font-family: "Courier New";
   color: blueviolet;
   text-align: left;
   font-size: 5vmin;
 }
+
+#Job {
+  text-align: center;
+  background-color: rgba(213, 226, 255, 0.5);
+  border: solid 2px rgba(111, 112, 255, 1);
+  float: left;
+  width: 230px;
+}
+
 
 h5 {
   font-family: "Courier New";
@@ -52,9 +80,26 @@ h5 {
   font-size: 5vmin;
 }
 
+#Goal {
+  text-align: center;
+  background-color: rgba(213, 226, 255, 0.5);
+  border: solid 2px rgba(111, 112, 255, 1);
+  float: right;
+  width: 350px;
+  display: flex;
+}
+
 h6 {
   font-family: "Courier New";
   color: blueviolet;
   text-align: center;
   font-size: 5vmin;
+}
+
+#List {
+  text-align: center;
+  background-color: rgba(213, 226, 255, 0.5);
+  border: solid 2px rgba(111, 112, 255, 1);
+  float: left;
+  width: 230px;
 }
